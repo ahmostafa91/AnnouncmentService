@@ -1,0 +1,7 @@
+{
+    "announcment": [
+      { "id": 1,"name": "Mr.Ahmed Mostafa", "type": "Math 101", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper dolor et ligula rhoncus, ut malesuada magna gravida. Praesent porttitor finibus tellus. Suspendisse vel lacus vitae erat porta bibendum eu vitae elit. Ut vitae eros eget libero sodales suscipit." },
+      { "id": 2,"name": "Mrs.Salma Ahmed", "type": "Physics 02", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper dolor et ligula rhoncus, ut malesuada magna gravida. Praesent porttitor finibus tellus. Suspendisse vel lacus vitae erat porta bibendum eu vitae elit. Ut vitae eros eget libero sodales suscipit." },
+      { "id": 3,"name": "School Management", "type": "Management", "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper dolor et ligula rhoncus, ut malesuada magna gravida. Praesent porttitor finibus tellus. Suspendisse vel lacus vitae erat porta bibendum eu vitae elit. Ut vitae eros eget libero sodales suscipit." }
+    ]
+  }
