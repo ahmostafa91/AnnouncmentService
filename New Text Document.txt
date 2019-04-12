@@ -1,5 +1,0 @@
-https://github.com/ahmostafa91/AnnouncmentService/blob/master/db.json
-
-https://my-json-server.typicode.com/ahmostafa91/AnnouncmentService
-
-FakeAnnouncementService
